@@ -1,7 +1,7 @@
 # cloud-based-task-hub
 MERN Task Hub Project
 
-Project Task Manager Web Application(Promanager)
+Project Task Manager Web Application(Task-Hub)
 A web-based task management application designed to help teams and individuals organize and track their tasks, projects, and deadlines. This application allows users to create, manage, and monitor the progress of their tasks in an intuitive and user-friendly interface.
 
 Features
